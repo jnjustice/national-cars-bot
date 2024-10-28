@@ -1,0 +1,891 @@
+Codes List 
+AAA 6100253
+Accenture XZ15J55
+Alamo 75796
+Alaska Airlines 5028121
+Allied Business 5028054
+Alpha Kappa Psi 6100747
+American Airlines 5036929
+American Express 5066944
+American Express Family Pass 5125601
+American Express Platinum 5028695
+American Veterinary Medical Association 5710068
+AMS Users Group 5450173
+APA 5601333
+Belmont Tech Coll XZ38Y30
+Big Ten 5004462
+Binghamton University 29ABUP
+Boston College 5006897
+Bowling Green State University XZ38Y02
+Business Code 5000491
+Caltech 5003447
+Carlson Wagonlit Travel 5760339
+Central Community College 5030968
+Central Ohio Tech Coll XZ38Y31
+Central State University XZ38Y03
+Cincinnati State Tech & Community College XZ38Y16
+Clark State Community College XZ38Y17
+Cleveland State University XZ38Y04
+Club Carlson 5030270
+Columbus State Community College XZ38Y18
+Continental Airlines 5037126
+Cuyahoga Community College XZ38Y19
+Delta Airlines 5000302
+Dreamworks 6600135
+Duke 1991867
+Edison State Community College XZ38Y20
+Enterra 5001760
+Entertainment 5004606
+Entertainment (15%) 5030353
+Entertainment Book ETBX7B
+Executive 5036754
+Fedex Code 5703040
+Frontier 5028785
+General Motors 5000226
+Government of British Columbia, Canada 3614638
+Hawaiian Airlines 5028772
+Hilton Discount 5028125
+Hocking Tech Coll XZ38Y32
+Honeywell XZ24HC3
+Howard University 6100920
+IBM 5666666
+IEEE 5282921
+Illinois Bar Association 6100497
+Illinois Farm Bureau 5706352
+Ithaca College 5002341
+James A Rhodes St Coll XZ38Y33
+Jefferson Community College XZ38Y21
+Kent State University XZ38Y05
+Lakeland Community College XZ38Y22
+Lorain Community College XZ38Y23
+Louisiana Tech 5130137
+Marion Tech Coll XZ38Y34
+Massachusetts Higher Education Consortium 524992
+MasterCard 5282905
+Miami University 5007600
+Miami University XZ38Y06
+Michigan State University 5001514
+Michigan State University 5130389
+Morehead State University 5004104
+Morehouse College 5028678
+National Police Defense Foundation 6020172
+NE Ohio University XZ38Y15
+North Central St Coll XZ38Y35
+NW State Community College XZ38Y24
+NWA 5001216
+Ohio College Association XZ38Y39
+Ohio State University XZ38Y09
+Ohio University XZ38Y07
+Owens Community College XZ38Y25
+PFCU 5028035
+Pittsburg State University 5130982
+Priceless/Carefree Vacations 6600330
+Priceline 5030568
+Purdue University 5004459
+Rapid Rewards (15%) 5030346
+Rapid Rewards II 5030510
+Rust College 5029310
+Rutgers 5160502
+Safeway Inc 1103455
+Shawnee State University XZ38Y08
+Siemens 5201735
+Sinclair Community College XZ38Y26
+Slippery Rock University 6100922
+Small Associations Program 5282865
+Southern Illinois University 5710540
+Southern New Hampshire University 6100842
+Southern State Community College XZ38Y27
+Spelman College 5030841
+Stark State College XZ38Y36
+State of California 5400321
+State of Georgia 5004625
+State of Louisana 5004172
+State of Louisiana 5004172
+State of Ohio XZ38140
+State of Texas UTS999
+State of Wisconsin / University of Wisconsin 5004463
+State of Wisconsin / University of Wisconsin 5766241
+Terra State Community College XZ38Y28
+The University of Iowa 5004461
+Troy University XZ55230
+UC 5400325
+United Airlines 2700075
+University of Akron XZ38Y10
+University of California 5400322
+University of California Los Angeles XZ32C02
+University of California San Diego 5904196
+University of California, Santa Cruz 5436624
+University of Chicago 5185011
+University of Cincinnati XZ38Y12
+University of Evansville 5041946
+University of Findlay XZ38Y55
+University of Florida 5130761
+University of Massachusetts Boston 5029509
+University of Nevada Las Vegas 5009608
+University of Nevada, Las Vegas 5004143
+University of New Mexico 5420154
+University of North Carolina 6666666
+University of South Florida XZ42D09
+University of Toledo XZ38Y11
+University of VA 5001661
+UPenn 5001856
+UPenn  5001856
+UTU 5005467
+Washington St Community College XZ38Y29
+Washington University St. Louis 5300743
+Wesleyan Church Corporation / wesleyan.org XZ08874
+WestJet 3717102
+Wright State University XZ38Y13
+Wyndham 5028137
+Youngstown State University 5130129
+Youngstown State University XZ38Y14
+Zane State University XZ38Y37
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
